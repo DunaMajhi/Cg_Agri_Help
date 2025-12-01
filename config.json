@@ -1,0 +1,8 @@
+{
+  "GEMINI_API_KEY": "",
+  "GEMINI_MODEL": "gemini-2.0-flash",
+  "TOP_K": 3,
+  "REPLY_MAX_TOKENS": 256,
+  "LANG_HINT": "chhattisgarhi",
+  "FALLBACK_REPLY": "Ma nischit nahi haun — kripya nikat ke Krishi Vistar Kendra se sampark karo."
+}
